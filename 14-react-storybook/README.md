@@ -1,6 +1,6 @@
-# React Unit Tests
+# Prática: Documentação com Storybook
 
-Esta prática exemplifica como implementar testes unitários em uma aplicação React.
+Esta prática exemplifica como implementar uma documentação voltada para front-end usando Storybook.
 
 ## Getting Started with Create React App
 
@@ -72,3 +72,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Cypress
+
+### `npm run cypress:open`
+
+Opens Cypress.\
+Open [http://localhost:3000](http://localhost:3000) automatically.
+
+### `npm run cypress:run`
+
+Runs Cypress tests to completion. By default, cypress run will run all tests headlessly.\
+Open [http://localhost:3000](http://localhost:3000) automatically.
+
+## Storybook
+
+### `npm run start-storybook -p 6006`
+
+Opens Storybook at [http://localhost:6006](http://localhost:6006).
+
+### `npm run build-storybook`
+
+Build Storybook as a static web application.
+

@@ -1,4 +1,4 @@
-# React E2E
+# Prática: E2E Tests com Cypress
 
 Esta prática exemplifica como implementar testes end-to-end usando Cypress em uma aplicação React.
 

@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Demonstração: Instalação do React
 
-*Esta demonstração contém a referência para instalação do Create React App, do React.js.*
+Esta demonstração contém a referência para instalação do Create React App, do React.js.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

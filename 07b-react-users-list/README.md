@@ -1,4 +1,4 @@
-# Lista de usuários
+# Prática: Lista de Usuários
 
 Esta prática exemplifica como fazer uma listagem de usuários no React.js.
 

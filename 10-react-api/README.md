@@ -1,6 +1,6 @@
-# React API
+# Prática: Lista de Pokémons
 
-Esta prática exemplifica como obter dados de uma API e listá-los no front-end.
+Esta prática exemplifica como obter dados de uma API e listá-los no front-end de uma aplicação.
 
 ## Getting Started with Create React App
 

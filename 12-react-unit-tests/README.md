@@ -1,6 +1,6 @@
-# React Context API
+# Prática: Implementando Unit Tests
 
-Esta prática exemplifica como utilizar o Context API do React.
+Esta prática exemplifica como implementar testes unitários em uma aplicação React.
 
 ## Getting Started with Create React App
 

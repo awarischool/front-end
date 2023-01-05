@@ -1,4 +1,4 @@
-# React DX
+# Prática: Lista de Usuários Aprimorada
 
 Esta prática exemplifica como aplicar boas práticas a projetos React.js.
 
