@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# misc
+.DS_Store
+
+# production
+/build
+
+# Storybook
+/storybook-static

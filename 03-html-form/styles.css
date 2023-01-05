@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    align-items: center;
+    background-color: #F6F8FA;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+
+    /* System Fonts as used by GitHub */
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif,
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; 
+}
+
+.form-wrapper {
+    background-color: white;
+    padding: 20px;
+    border-radius: 3px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.form-title {
+    margin-bottom: 8px;
+}
+
+.form-input-group {
+    margin-bottom: 10px;
+}

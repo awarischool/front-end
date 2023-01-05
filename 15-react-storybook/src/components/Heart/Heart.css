@@ -1,0 +1,16 @@
+.heart {
+    cursor: pointer;
+    fill: lightgray;
+}
+
+.heart-selected {
+    fill: red;
+}
+
+.heart:hover {
+    fill: red;
+}
+
+.heart-storybook-wrapper {
+    width: 64px;
+}
